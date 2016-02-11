@@ -84,13 +84,8 @@ line = {
 };
 
 circle.init(65, 320, 55, '#800080');
-rectangle.init(60, 300, 150, 50, '#ff8000');
+rectangle.init(60, 300, 150, 50, '#fa80c0');
 triangle.init(322, 120, 40, 267, 151, 435, '#ff0000');
 line.init(25, 120, 256, 128, '#ff0c30');
-
-console.log(circle.toString());
-console.log(rectangle.toString())
-console.log(triangle.toString());
-console.log(line.toString());
 
 console.log(this);

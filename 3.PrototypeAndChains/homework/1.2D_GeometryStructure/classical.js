@@ -115,15 +115,9 @@ var Line = (function() {
     return Line;
 })();
 
-var circ = new Circle(65, 320, 55, '#800080');
-var rect = new Rectangle(60, 300, 150, 50, '#ff8000');
-var tria = new Triangle(322, 120, 40, 267, 151, 435, '#ff0000');
-var line = new Line(25, 120, 256, 128, '#ff0c30');
-
-
-console.log(circ.toString());
-console.log(rect.toString());
-console.log(tria.toString());
-console.log(line.toString());
+var circClassical = new Circle(65, 320, 55, '#800080');
+var rectClassical = new Rectangle(60, 300, 150, 50, '#fa80c0');
+var triaClassical = new Triangle(322, 120, 40, 267, 151, 435, '#ff0000');
+var lineClassical = new Line(25, 120, 256, 128, '#ff0c30');
 
 console.log(this);

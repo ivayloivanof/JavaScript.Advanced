@@ -4,8 +4,46 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <script src="js/scripts.js"></script>
+    <link rel="stylesheet" href="css/reset.css" />
+    <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
+    <div id="wrapper">
+        <h1>Tuesday TODO List</h1>
+        <div id="items">
+            <section>
+                <header class="title">Shopping List</header>
+                <ul class="items">
+                    <li class="item"><input type="checkbox" />Air-freshener</li>
+                    <li class="item"><input type="checkbox" />Pampers</li>
+                    <li class="item"><input type="checkbox" />Newspaper</li>
+                    <li class="item"><input type="checkbox" />Toilet paper</li>
+                </ul>
+            </section>
+            <form action="post" class="addItem">
+                <button type="button" name="add">+</button>
+                <input type="text" value="Add item..." name="addItem" />
+            </form>
 
+            <section>
+                <header class="title">Business</header>
+                <ul class="items">
+                    <li class="item"><input type="checkbox" />Inspect fiscal year report</li>
+                    <li class="item"><input type="checkbox" />Lunch with board of directors</li>
+                    <li class="item"><input type="checkbox" />Fire Jackson</li>
+                    <li class="item"><input type="checkbox" />Take a nap</li>
+                    <li class="item"><input type="checkbox" />Arrange meeting with investors</li>
+                </ul>
+            </section>
+            <form action="post" class="addItem">
+                <button type="button" name="add">+</button>
+                <input type="text" value="Add item..." name="addItem" />
+            </form>
+        </div>
+        <form action="post" id="addSection">
+            <input type="text" value="Title..." name="addSection" />
+            <button type="button" name="add">New Section</button>
+        </form>
+    </div>
 </body>
 </html>

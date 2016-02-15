@@ -1,0 +1,65 @@
+#wrapper {
+    width: 600px;
+    min-height: 300px;
+    margin: 0 auto;
+    border: 3px solid black;
+    padding: 10px;
+
+    h1 {
+        font-size: 40px;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    #items {
+        padding: 5px;
+        border: 3px solid grey;
+        section {
+            border: 3px solid grey;
+            header {
+                margin: 5px;
+                font-size: 25px;
+                text-align: right;
+                margin-right: 25px;
+            }
+            ul {
+                width: 580px;
+                margin-left: 10px;
+                input {
+                    float: left;
+                    height: 30px;
+                    line-height: 30px;
+                    margin-right: 10px;
+                }
+                li {
+                    font-size: 20px;
+                    display: inline-block;
+                    height: 30px;
+                    line-height: 30px;
+                    width: 560px;
+                    border-bottom: 2px solid black;
+                }
+                li:last-child {
+                    border-bottom: none;
+                    margin-bottom: 5px;
+                }
+            }
+        }
+        form.addItem {
+            margin: 10px 0 55px 0;
+            input {
+                float: right;
+                color: grey;
+            }
+            button {
+                float: right;
+            }
+        }
+    }
+    form#addSection {
+        margin: 10px 0 0 0;
+        input {
+            color: grey;
+        }
+    }
+}

@@ -1,0 +1,64 @@
+#wrapper {
+  width: 600px;
+  min-height: 300px;
+  margin: 0 auto;
+  border: 3px solid black;
+  padding: 10px;
+}
+#wrapper h1 {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+}
+#wrapper #items {
+  padding: 5px;
+  border: 3px solid grey;
+}
+#wrapper #items section {
+  border: 3px solid grey;
+}
+#wrapper #items section header {
+  margin: 5px;
+  font-size: 25px;
+  text-align: right;
+  margin-right: 25px;
+}
+#wrapper #items section ul {
+  width: 580px;
+  margin-left: 10px;
+}
+#wrapper #items section ul input {
+  float: left;
+  height: 30px;
+  line-height: 30px;
+  margin-right: 10px;
+}
+#wrapper #items section ul li {
+  font-size: 20px;
+  display: inline-block;
+  height: 30px;
+  line-height: 30px;
+  width: 560px;
+  border-bottom: 2px solid black;
+}
+#wrapper #items section ul li:last-child {
+  border-bottom: none;
+  margin-bottom: 5px;
+}
+#wrapper #items form.addItem {
+  margin: 10px 0 55px 0;
+}
+#wrapper #items form.addItem input {
+  float: right;
+  color: grey;
+}
+#wrapper #items form.addItem button {
+  float: right;
+}
+#wrapper form#addSection {
+  margin: 10px 0 0 0;
+}
+#wrapper form#addSection input {
+  color: grey;
+}

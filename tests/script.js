@@ -1,11 +1,11 @@
 var Func = (function() {
 	function f() {
-		console.log(this);
+		this.args = arguments;
 		return true;
 	};
 
-	function Func(a, b, c) {
-		f.call(this);
+	function Func(arguments) {
+		f.call(this, arguments);
 	};
 
 	Func.prototype = {};
@@ -14,3 +14,4 @@ var Func = (function() {
 })();
 
 var fc = new Func(10, 20, 30);
+console.log(fc);

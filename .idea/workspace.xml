@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81c98a7b-abab-4868-b428-d8f84a97a904" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/script.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="4c6840e2-39c0-4ae0-85f5-4e8be874ee6d" name="Failed commit: Default" comment="homework completed" />
@@ -312,7 +314,13 @@
       <option name="project" value="LOCAL" />
       <updated>1456346081382</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1456346090191</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1456346090191</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -356,7 +364,8 @@
     <MESSAGE value="update homework" />
     <MESSAGE value="homework completed" />
     <MESSAGE value="delete lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete lab" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

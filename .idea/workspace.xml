@@ -2,49 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81c98a7b-abab-4868-b428-d8f84a97a904" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/06.Homework.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab/Advanced-JS-Lab-Poppy/Advanced-JS-Lab-Poppy.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/ivanof.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.DesignPatterns/05. JavaScript Design Patterns/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.DesignPatterns/05. JavaScript Design Patterns/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.DesignPatterns/05. JavaScript Design Patterns/models/container.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.DesignPatterns/05. JavaScript Design Patterns/models/item.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.DesignPatterns/05. JavaScript Design Patterns/models/section.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/01.homework/addingNumberUsingFunction.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/01.homework/functionArguments.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/01.homework/functionComposition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/01.homework/testValueOfThis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/02.homework/01.WebinarRegistrationForm/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/02.homework/01.WebinarRegistrationForm/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/02.homework/01.WebinarRegistrationForm/js/registrationForm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/02.homework/02.EmailOnlyField/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/02.homework/02.EmailOnlyField/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/02.homework/02.EmailOnlyField/js/email.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/02.homework/03.CreateParagraphFunction/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/02.homework/03.CreateParagraphFunction/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/02.homework/03.CreateParagraphFunction/js/paragraph.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/02.homework/04.HTMLGeneratorObject/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/02.homework/04.HTMLGeneratorObject/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/03.homework/1.2D_GeometryStructure/canvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/03.homework/1.2D_GeometryStructure/classical.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/03.homework/1.2D_GeometryStructure/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/03.homework/1.2D_GeometryStructure/prototypal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/04.homework/problem1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/04.homework/problem1/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/04.homework/problem2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/04.homework/problem2/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/04.homework/problem3/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.JavascriptBestPractice/04.homework/problem4/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab/Advanced-JS-Lab-Poppy/Skeleton/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab/Advanced-JS-Lab-Poppy/Skeleton/poppy/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab/Advanced-JS-Lab-Poppy/Skeleton/poppy/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab/Advanced-JS-Lab-Poppy/Skeleton/poppy/view-factory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab/Advanced-JS-Lab-Poppy/Skeleton/style/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/script.js" afterPath="$PROJECT_DIR$/tests/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab/Advanced-JS-Lab-Poppy/Skeleton/poppy/core.js" afterPath="$PROJECT_DIR$/Lab/Advanced-JS-Lab-Poppy/Skeleton/poppy/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab/Advanced-JS-Lab-Poppy/Skeleton/poppy/view-factory.js" afterPath="$PROJECT_DIR$/Lab/Advanced-JS-Lab-Poppy/Skeleton/poppy/view-factory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab/Advanced-JS-Lab-Poppy/Skeleton/style/style.css" afterPath="$PROJECT_DIR$/Lab/Advanced-JS-Lab-Poppy/Skeleton/style/style.css" />
+    </list>
+    <list id="4c6840e2-39c0-4ae0-85f5-4e8be874ee6d" name="Failed commit: Default" comment="update homework">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab/Advanced-JS-Lab-Poppy/Skeleton/index.html" afterPath="$PROJECT_DIR$/Lab/Advanced-JS-Lab-Poppy/Skeleton/index.html" />
     </list>
     <ignored path="JavaScript.Advanced.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -108,6 +72,9 @@
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -178,6 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -210,9 +178,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript.Advanced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript.Advanced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07.AMD and RequireJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -310,27 +291,41 @@
       <option name="number" value="Default" />
       <updated>1455568422590</updated>
     </task>
+    <task id="LOCAL-00001" summary="homework 6  - completed">
+      <created>1456339019690</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1456339019690</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update homework">
+      <created>1456339051160</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1456339051160</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="26" width="1922" height="1024" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1886388" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18858954" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4397163" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28714967" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -345,6 +340,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <confirmMoveToFailedCommit value="2" />
+    <MESSAGE value="homework 6  - completed" />
+    <MESSAGE value="update homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="update homework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
